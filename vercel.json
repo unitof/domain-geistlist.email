@@ -1,5 +1,4 @@
 {
-  "name": "redir-geistlist-dot.email",
   "routes": [
     { "src": "/", "status": 301, "headers": { "Location": "https://buttondown.email/geistlist" }}
   ]
